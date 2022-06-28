@@ -1,2 +1,4 @@
 Name Sol
 Languages Spanish
+
+hice unos cambios
